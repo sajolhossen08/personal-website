@@ -1,0 +1,238 @@
+body {
+    margin: 7px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*👉Section--01👈*/
+h1 {
+    font-size: 50px;
+    font-weight: 600px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.photo1 {
+    width: 90%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.photo1:hover {
+    box-shadow: 5px 5px 15px #e7a79d;
+}
+
+.hello {
+    color: #140c6e;
+    margin-bottom: -40px;
+}
+
+.button {
+    background-color: #4d42cb;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+.name {
+    color: #ff8367;
+}
+
+.button:hover {
+    background-color: #fb6f5b;
+    box-shadow: 10px 10px 20px #fb6f5b;
+}
+
+section {
+    margin-bottom: 100px;
+    display: block;
+    height: 497px;
+}
+
+
+/*👉Section-- 02👈*/
+.photo2 {
+    width: 90%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.photo2:hover {
+    box-shadow: -5px 5px 15px #b7b6f1;
+}
+
+.about {
+    margin-top: 10%;
+}
+
+.clr-about {
+    color: #fb6f5b;
+    font-size: 40px;
+    margin-bottom: -30px;
+}
+
+.about-me {
+    text-align: justify;
+}
+
+
+/*👉Section-- 03👈*/
+.past-work {
+    width: 99%;
+    height: 550px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.site-pic {
+    width: 25%;
+    margin-left: 6%;
+    float: left;
+    margin-top: 5%;
+}
+
+.h2-project {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 100px;
+}
+
+.lastet {
+    color: #fb6f5b;
+}
+
+.container1{
+    position: relative;
+    text-align: center;
+    color: black;    
+}
+.bottom-left1{
+    position: absolute;
+    bottom: -320px;
+    left: 90px;
+}
+
+.container2{
+    position: relative;
+    text-align: center;
+    color: black;    
+}
+.bottom-left2{
+    position: absolute;
+    bottom: -320px;
+    left: 500px;
+}
+.container3{
+    position: relative;
+    text-align: center;
+    color: black;    
+}
+.bottom-left3{
+    position: absolute;
+    bottom: -320px;
+    left: 915px;
+}
+
+.site-pic{
+    box-shadow: 10px 10px 40px gray;
+}
+
+.site-pic:hover {
+    box-shadow: 10px 10px 50px rgb(62, 82, 146);
+}
+
+
+
+/*👉Section --04👈*/
+.work-inqury {
+    height: 200px;
+}
+
+.shape-image {
+    width: 50%;
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 45px;
+    left: 350px;
+}
+
+.top-right {
+    position: absolute;
+    top: 63px;
+    right: 350px;
+}
+
+.chat {
+    background-color: #fb6957;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+.shape-image:hover{
+    box-shadow: 10px 10px 50px rgb(62, 82, 146);
+}
+
+/*👉Section --05👈*/
+.bottom {
+    height: 420px;
+}
+
+.contact {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+
+.address {
+    margin-left: 215px;
+    float: left;
+}
+
+.query {
+    float: right;
+    margin-right: 170px;
+}
+
+
+/*👉Footer section👈*/
+.footer {
+    text-align: center;
+}
+
+span {
+    color: #fb6957;
+}
+
+.yq {
+    padding: 20px;
+    text-align: left;
+}
+
+.submit {
+    margin-top: 5px;
+}
